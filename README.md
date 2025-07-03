@@ -1,5 +1,13 @@
 ## Hi there 👋
-
+Hello, I'm Tim. I am currently an software developer with a strong passion for web development as well as C++ and python.
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Quarkus](https://img.shields.io/badge/quarkus-power-blue?logo=quarkus&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 <!--
 **pirasp382/pirasp382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
